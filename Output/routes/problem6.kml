@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <Style id="modeStyle0">
+    <LineStyle>
+      <color>ff00ff00</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle1">
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle2">
+    <LineStyle>
+      <color>ffff0000</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle3">
+    <LineStyle>
+      <color>ff00ffff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle4">
+    <LineStyle>
+      <color>ffff00ff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Prob 6 - Seg 1: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.440250,23.700112,0
+        90.440376,23.699504,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

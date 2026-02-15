@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <Style id="modeStyle0">
+    <LineStyle>
+      <color>ff00ff00</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle1">
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle2">
+    <LineStyle>
+      <color>ffff0000</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle3">
+    <LineStyle>
+      <color>ff00ffff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle4">
+    <LineStyle>
+      <color>ffff00ff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Prob 5 - Seg 1: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400830,23.872095,0
+        90.400869,23.872582,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 2: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400869,23.872582,0
+        90.400902,23.873096,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 3: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400902,23.873096,0
+        90.400907,23.873556,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 4: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400907,23.873556,0
+        90.400857,23.874047,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 5: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400857,23.874047,0
+        90.400785,23.874657,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 6: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400785,23.874657,0
+        90.400591,23.874651,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 7: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400591,23.874651,0
+        90.400781,23.875970,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 8: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400781,23.875970,0
+        90.400821,23.876116,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 5 - Seg 9: Car</name>
+    <styleUrl>#modeStyle1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.400821,23.876116,0
+        90.401026,23.876867,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

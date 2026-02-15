@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <Style id="modeStyle0">
+    <LineStyle>
+      <color>ff00ff00</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle1">
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle2">
+    <LineStyle>
+      <color>ffff0000</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle3">
+    <LineStyle>
+      <color>ff00ffff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="modeStyle4">
+    <LineStyle>
+      <color>ffff00ff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Prob 2 - Seg 1: Walking</name>
+    <styleUrl>#modeStyle0</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363833,23.834145,0
+        90.363833,23.834145,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 2: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363833,23.834145,0
+        90.363832,23.833879,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 3: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363832,23.833879,0
+        90.363832,23.833879,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 4: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363832,23.833879,0
+        90.363860,23.833543,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 5: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363860,23.833543,0
+        90.363860,23.833543,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 6: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363860,23.833543,0
+        90.363853,23.832228,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 7: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363853,23.832228,0
+        90.363853,23.832228,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 8: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363853,23.832228,0
+        90.363855,23.832081,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 9: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363855,23.832081,0
+        90.363855,23.832081,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 10: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363855,23.832081,0
+        90.363855,23.832054,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 11: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363855,23.832054,0
+        90.363855,23.832054,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 12: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363855,23.832054,0
+        90.363846,23.831827,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 13: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363846,23.831827,0
+        90.363846,23.831827,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 14: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363846,23.831827,0
+        90.363839,23.831643,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 15: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363839,23.831643,0
+        90.363839,23.831643,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 16: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363839,23.831643,0
+        90.363829,23.831451,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 17: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363829,23.831451,0
+        90.363829,23.831451,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 18: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.363829,23.831451,0
+        90.364156,23.829362,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 19: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.364156,23.829362,0
+        90.364156,23.829362,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 20: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.364156,23.829362,0
+        90.364226,23.829363,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 21: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.364226,23.829363,0
+        90.364226,23.829363,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 22: Metro</name>
+    <styleUrl>#modeStyle2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.364226,23.829363,0
+        90.364255,23.828335,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Prob 2 - Seg 23: Walking</name>
+    <styleUrl>#modeStyle0</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        90.364255,23.828335,0
+        90.364255,23.828335,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>
