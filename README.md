@@ -184,10 +184,10 @@ This project demonstrates practical implementation of:
 
 ---
 
-## 👥 Team
+## Author
 
-**Graph Major Project**  
-Department of Software Engineering  
+Anita Pervin
+Department of Software Engineering, 
 University of Dhaka
 
 ---
