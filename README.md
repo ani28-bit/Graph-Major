@@ -187,8 +187,8 @@ This project demonstrates practical implementation of:
 ## Author
 
 Anita Pervin
-Department of Software Engineering, 
-University of Dhaka
+
+    Department of Software Engineering, University of Dhaka
 
 ---
 
